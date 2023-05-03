@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anishjoshi1999
 - 👀 I’m interested in learning computer science in general.
-- 🌱 I love web development.
+- 🌱 I love software development.
 
 <!---
 anishjoshi1999/anishjoshi1999 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
