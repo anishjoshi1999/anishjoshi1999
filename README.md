@@ -29,7 +29,7 @@ I build scalable web applications and APIs, with a focus on clean architecture, 
 
 ## 🎓 Education
 
-**M.Sc. in Computer Engineering** *(Data Science & Analytics)* — Pulchowk Campus, IOE, Tribhuvan University *(Present)*  
+**M.Sc. in Computer Engineering** *(Data Science & Analytics)* — Pulchowk Campus, IOE, Tribhuvan University *(2026–Present)*   
 **B.E. in Computer Engineering** — Purwanchal Engineering Campus, IOE, Tribhuvan University *(2017–2022)*  
 **Higher Secondary (Science)** — Liverpool International College, Kathmandu *(2015–2017)*
 
