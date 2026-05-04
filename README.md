@@ -6,15 +6,6 @@ I build scalable web applications and APIs, with a focus on clean architecture, 
 
 ---
 
-## 🧑‍💻 What I Do
-
-- **API Design & Optimization** — Building high-performance, secure APIs for enterprise healthcare applications
-- **Full-Stack Development** — End-to-end product development using Next.js, React, Node.js, and .NET Core
-- **Database Architecture** — Designing schemas and query strategies across SQL and NoSQL systems
-- **DevOps & Infrastructure** — CI/CD pipelines, containerization, and cloud deployments on AWS & Azure
-
----
-
 ## 🏢 Experience
 
 **Software Engineer** — [Cedar Gate Technologies](https://www.cedargate.com), Kathmandu *(Jun 2023 – Present)*
